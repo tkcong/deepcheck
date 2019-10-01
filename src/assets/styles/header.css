@@ -1,0 +1,43 @@
+header {
+	background-color: transparent;
+}
+
+header .youtube-video-background {
+	padding-bottom: 300px;
+	background-size: cover;
+}
+
+header .logo-image {
+	margin-top: 10px;
+}
+
+header .navbar {
+	margin-top: 5px;
+}
+
+header .navbar .nav-link {
+	color: white;
+}
+
+header .btn-login {
+	border-radius: initial;
+}
+
+header .slogan {
+	padding-top: 200px;
+}
+
+header .slogan-text {
+	padding: 50px;
+	font-size: 40px;
+	background-color: yellow;
+	opacity: 0.5;
+}
+
+header .slogan-button {
+	margin-top: 20px;
+	padding: 10px 20px;
+	color: #000;
+    background-color: white;
+    border-color: white;
+}

@@ -1,0 +1,25 @@
+footer {
+	background-color: #002442;
+}
+
+footer .img-logo {
+	margin-top: 50px;
+}
+
+footer .nav-link {
+	color: white;
+}
+
+footer .fontawesome-icon {
+	color: white;
+	margin: 10px;
+}
+
+footer hr {
+	background-color: #404e59;
+}
+
+footer .copyright {
+	color: #404e59;
+	margin-bottom: 20px;
+}

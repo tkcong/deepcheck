@@ -1,0 +1,34 @@
+#page_home .img-service {
+	padding: 50px 0;
+}
+
+#page_home .img-service img {
+	width: 90%;
+}
+
+#page_home .comment-service {
+	padding: 50px 0;
+}
+
+#page_home .comment-service .comment-title {
+	padding-top: 20px;
+	font-size: 40px;
+}
+
+#page_home .comment-service .comment-subtitle {
+	font-size: 25px;
+}
+
+#page_home .comment-service .comment-text {
+	padding-top: 30px;
+	font-size: 20px;
+}
+
+#page_home .comment-service .btn-comment {
+	padding: 30px 0;
+}
+
+#page_home .comment-service .btn-comment button {
+	border-radius: initial;
+	padding: 15px 10px;
+}
