@@ -1,3 +1,6 @@
+I got the job from Peopleperhour.com. The client name was M.F. on peopleperhour and he said his name is "Per".
+Becareful with him. He never paid. So I replaced the pages with single image.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
