@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 
 import './../assets/styles/header.css';
 import img_logo from './../assets/images/logo.png';
+import img_cnxlogo from './../assets/images/CNXlogo128.png';
 
 import YoutubeBackground from 'react-youtube-background';
 
@@ -29,6 +30,7 @@ class Header extends Component {
 		    </div>
 		    <div className="row slogan">
 		    	<span className="slogan-text">Check company <br />risks and identities</span>
+		    	<img src={img_cnxlogo} alt="img_cnxlogo" />
 		    </div>
 		    <div className="row">
 		    	<Link to="/" className="btn slogan-button">Check Now</Link>
