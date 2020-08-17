@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/deepcheck/static/css/main.adfcd523.chunk.css",
+    "main.js": "/deepcheck/static/js/main.b8e5a83d.chunk.js",
+    "main.js.map": "/deepcheck/static/js/main.b8e5a83d.chunk.js.map",
+    "runtime-main.js": "/deepcheck/static/js/runtime-main.dd8e4482.js",
+    "runtime-main.js.map": "/deepcheck/static/js/runtime-main.dd8e4482.js.map",
+    "static/css/2.614afd85.chunk.css": "/deepcheck/static/css/2.614afd85.chunk.css",
+    "static/js/2.af11be3d.chunk.js": "/deepcheck/static/js/2.af11be3d.chunk.js",
+    "static/js/2.af11be3d.chunk.js.map": "/deepcheck/static/js/2.af11be3d.chunk.js.map",
+    "index.html": "/deepcheck/index.html",
+    "precache-manifest.0608d50f6d8ba6d30931a9fb632db0a7.js": "/deepcheck/precache-manifest.0608d50f6d8ba6d30931a9fb632db0a7.js",
+    "service-worker.js": "/deepcheck/service-worker.js",
+    "static/css/2.614afd85.chunk.css.map": "/deepcheck/static/css/2.614afd85.chunk.css.map",
+    "static/css/main.adfcd523.chunk.css.map": "/deepcheck/static/css/main.adfcd523.chunk.css.map",
+    "static/media/about-us.png": "/deepcheck/static/media/about-us.9081e0c3.png",
+    "static/media/account-check.png": "/deepcheck/static/media/account-check.ad81adcf.png",
+    "static/media/document-check.png": "/deepcheck/static/media/document-check.5a8f8040.png",
+    "static/media/id-check.png": "/deepcheck/static/media/id-check.cda72e5d.png",
+    "static/media/img-service1.png": "/deepcheck/static/media/img-service1.76b8cacb.png",
+    "static/media/img-service2.png": "/deepcheck/static/media/img-service2.7e511d7e.png",
+    "static/media/img-service3.png": "/deepcheck/static/media/img-service3.1b06d78c.png"
+  }
+}
